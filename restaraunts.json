@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Matt's Bar",
+    "City": "Msp",
+    "Price": "$"
+  },
+  {
+    "Name": "Casper & Runyon's Nook",
+    "City": "Msp",
+    "Price": "$$"
+  },
+  {
+    "Name": "Borough",
+    "City": "Msp",
+    "Price": "$$$"
+  },
+  {
+    "Name": "Butcher and the Boar",
+    "City": "Msp",
+    "Price": "$$$$"
+  },
+  {
+    "Name": "The Capital Grille",
+    "City": "Msp",
+    "Price": "$$$"
+  },
+  {
+    "Name": "Manny%u2019s Steakhouse",
+    "City": "Msp",
+    "Price": "$$$$"
+  },
+  {
+    "Name": "Pho 79",
+    "City": "Msp",
+    "Price": "$"
+  },
+  {
+    "Name": "Rusty Taco",
+    "City": "Msp",
+    "Price": "$"
+  },
+  {
+    "Name": "El Taco Riendo",
+    "City": "Msp",
+    "Price": "$"
+  },
+  {
+    "Name": "Red Cow",
+    "City": "Msp",
+    "Price": "$$"
+  },
+  {
+    "Name": "Al's Breakfast",
+    "City": "Msp",
+    "Price": "$"
+  },
+  {
+    "Name": "Black: Coffee and Waffle Bar",
+    "City": "Msp",
+    "Price": "$$"
+  },
+  {
+    "Name": "Heyday",
+    "City": "Msp",
+    "Price": "$$$"
+  },
+  {
+    "Name": "Nico's Taco and Tequila Bar",
+    "City": "Msp",
+    "Price": "$$"
+  },
+  {
+    "Name": "Pajarito",
+    "City": "Stp",
+    "Price": "$$"
+  },
+  {
+    "Name": "Revival",
+    "City": "Stp",
+    "Price": "$$"
+  },
+  {
+    "Name": "El Burrito Mercado",
+    "City": "Stp",
+    "Price": "$"
+  },
+  {
+    "Name": "Mickey's Diner",
+    "City": "Stp",
+    "Price": "$"
+  }
+]

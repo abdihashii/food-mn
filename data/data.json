@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Matt's Bar",
+        "city": "Msp",
+        "price": "$"
+    },
+    {
+        "name": "Crooked Pint",
+        "city": "Msp",
+        "price": "$$"
+    },
+    {
+        "name": "Casper & Runyon's Nook",
+        "city": "Msp",
+        "price": "$$"
+    },
+    {
+        "name": "Borough",
+        "city": "Msp",
+        "price": "$$$"
+    },
+    {
+        "name": "Butcher and the Boar",
+        "city": "Msp",
+        "price": "$$$$"
+    },
+    {
+        "name": "The Capital Grille",
+        "city": "Msp",
+        "price": "$$$"
+    },
+    {
+        "name": "Manny's Steakhouse",
+        "city": "Msp",
+        "price": "$$$$"
+    },
+    {
+        "name": "Pho 79",
+        "city": "Msp",
+        "price": "$"
+    },
+    {
+        "name": "Rusty Taco",
+        "city": "Msp",
+        "price": "$"
+    },
+    {
+        "name": "El Taco Riendo",
+        "city": "Msp",
+        "price": "$"
+    },
+    {
+        "name": "Red Cow",
+        "city": "Msp",
+        "price": "$$"
+    },
+    {
+        "name": "Al's Breakfast",
+        "city": "Msp",
+        "price": "$"
+    },
+    {
+        "name": "Black: Coffee and Waffle Bar",
+        "city": "Msp",
+        "price": "$$"
+    },
+    {
+        "name": "Heyday",
+        "city": "Msp",
+        "price": "$$$"
+    },
+    {
+        "name": "Nico's Taco and Tequila Bar",
+        "city": "Msp",
+        "price": "$$"
+    },
+    {
+        "name": "The Lynhall",
+        "city": "Mpls",
+        "price": "$$"
+    },
+    {
+        "name": "Revival",
+        "city": "Mpls",
+        "price": "$$"
+    },
+    {
+        "name": "Pajarito",
+        "city": "Stp",
+        "price": "$$"
+    },
+    {
+        "name": "Revival",
+        "city": "Stp",
+        "price": "$$"
+    },
+    {
+        "name": "El Burrito Mercado",
+        "city": "Stp",
+        "price": "$"
+    },
+    {
+        "name": "Mickey's Diner",
+        "city": "Stp",
+        "price": "$"
+    }
+  ]
